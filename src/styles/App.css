@@ -61,6 +61,12 @@
   margin-right: 15px;
 }
 
+.mint-alert-message {
+  color: white;
+}
+
+
+
 .opensea-button {
   background-color: rgb(32, 129, 226);
 }
